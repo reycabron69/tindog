@@ -127,6 +127,9 @@ p {
 .row{
   text-align: center;
 }
-/* .price{
-  margin-bottom: 30px;
-} */
+.card1{
+  margin-top: 60px;
+}
+#cta{
+  text-align: center;
+}
